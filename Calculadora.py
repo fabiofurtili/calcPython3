@@ -1,13 +1,13 @@
 print("Calculadora - Python3")
 #Operadores
-def somar(a,b):
-    return(a+b)
-def subtrair(a,b):
-    return(a-b)
-def multiplicar(a,b):
-    return(a*b)
-def dividir(a,b):
-    return(a/b)
+def somar(a, b):
+    return(a + b)
+def subtrair(a, b):
+    return(a - b)
+def multiplicar(a, b):
+    return(a * b)
+def dividir(a, b):
+    return(a / b)
 
 #Entrada de dados
 primeiroValor = int(input("Primeiro valor: "))
